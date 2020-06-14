@@ -1,0 +1,98 @@
+/* Gloabl */
+*{
+    margin: 0;
+    padding: 0;
+  
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:16px; 
+    background-color: #F2EC91;
+}
+
+button{
+    border: 0;
+    border-radius: 5px;
+    padding: 10px;
+    color: #000;
+    font-size: 20px;
+    min-width: 150px;
+}
+
+.red{
+    background: #C13828;
+    color: #fff;
+}
+
+.green{
+    background: green;
+    color: #fff;
+}
+
+.none{
+    display: none;
+}
+
+a{
+    color: #000;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+
+/* Layout */
+.wrapper{
+    width: 1000px;
+    margin:0 auto;
+    padding:0 10px;
+}
+
+.content{
+    margin-top: 20px;
+    
+}
+
+/* header */
+header{
+    border-bottom:2px solid rgb(207, 201, 118);
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+/* content */
+.content h2{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Cards */
+
+.product ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ .product ul li {
+     list-style: none;
+     background: #FFF9E7;
+     flex-basis: 220px;
+     margin-left: 10px;
+     margin-bottom: 20px;
+     text-align:center;
+     padding: 10px 0;
+     border: 1px solid #fff;
+ }
+
+ /* Links */
+ .links{
+     text-align: center;
+ }
+
+ /* form */
+
