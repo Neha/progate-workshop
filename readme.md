@@ -40,7 +40,7 @@ We will try our best to finish in 1.5hrs. If not, we will have follow up session
   - and many more
 - ParcelJS
 
-## YouTube viceos
+## YouTube videos
 
 Session one: [HTML](https://youtu.be/doIHKP4QfMc)
 
